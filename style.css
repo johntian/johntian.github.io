@@ -9,7 +9,7 @@ html {
   color: var(--black);
   font-family: var(--font);
   font-size: 16px;
-  line-height: 1.7;
+  line-height: 1.6;
 }
 
 body {
@@ -55,4 +55,9 @@ header a {
 
 nav a {
   margin-left: 20px;
+}
+
+.content {
+text-align: justify;
+text-justify: inter-word;
 }
