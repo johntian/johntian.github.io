@@ -61,3 +61,8 @@ nav a {
 text-align: justify;
 text-justify: inter-word;
 }
+
+.note {
+font-size: 12px;
+padding-top: 1em;
+}
